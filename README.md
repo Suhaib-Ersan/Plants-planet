@@ -1,2 +1,2 @@
 # Plants-planet
-A site for a company called "Plants planet"
+A mockup site for a company called "Plants planet"
